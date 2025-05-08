@@ -62,12 +62,4 @@ This architecture significantly improved object detection accuracy over traditio
 
 The notebook provides visualization of detection results on sample test images, showing bounding boxes labeled as “object” or “background”.
 
-## 🚀 Future Enhancements
-
-- Integrate Selective Search for better region proposals.
-- Train on the full VOC dataset for improved performance.
-- Replace SVM with softmax classifier and finetune the CNN.
-
 ---
-
-Made with ❤️ for computer vision research and learning.
