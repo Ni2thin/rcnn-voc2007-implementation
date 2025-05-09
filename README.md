@@ -48,6 +48,11 @@ This implementation uses only a 10% subset of the Pascal VOC 2007 dataset for tr
 ```python
 ds, ds_info = tfds.load('voc/2007', split='train[:10%]', with_info=True, shuffle_files=True)
 ```
+or Download it from ,
+
+- [VOCtrainval_06-Nov-2007.tar (Training + Validation Set)](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar)
+- [VOCtest_06-Nov-2007.tar (Test Set)](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar)
+
 
 ## 🔬 Seminal Importance
 
