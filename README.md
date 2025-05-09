@@ -63,8 +63,4 @@ The R-CNN model was a transformative milestone in computer vision, bridging clas
 
 This architecture significantly improved object detection accuracy over traditional methods (like DPMs) and laid the groundwork for future real-time and end-to-end object detectors.
 
-## 📊 Results
-
-The notebook provides visualization of detection results on sample test images, showing bounding boxes labeled as “object” or “background”.
-
 ---
